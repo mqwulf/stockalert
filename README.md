@@ -1,0 +1,2 @@
+Stock news alert that sends message to an user's phone number when their stock moves up or down by 5% and also sends 3 latest trending news on the stock.
+User can choose custom percentage to be notified and custom amount of news to be sent.
